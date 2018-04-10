@@ -5,6 +5,7 @@
     xmlns:local="clr-namespace:HelloWorldMac" 
     x:Class="HelloWorldMac.HelloWorldMacPage"
     BackgroundColor="Silver"
+    Title="TestPage"
     >
     <StackLayout VerticalOptions="Center">
         <Label BackgroundColor="Red" Text="Welcome to Xamarin Forms! and a update" VerticalOptions="Center" HorizontalOptions="Center" />
