@@ -8,7 +8,7 @@ namespace HelloWorldMac
         {
             InitializeComponent();
 
-            MainPage = new HelloWorldMacPage();
+            MainPage = new NavigationPage(new HelloWorldMacPage());
         }
 
         protected override void OnStart()
